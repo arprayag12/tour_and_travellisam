@@ -5,3 +5,4 @@ Travel and Tourism sample code is available in the below link directed. If you w
 The Travel Management System team is currently developing and implementing an enterprise-wide travel system to replace the TAPS system. This system will be used for all Indiana University faculty, staff, and students to submit travel authorization documents and initiate reimbursement requests. The new system will allow for the automation of travel approvals and processing of reimbursement requests.
 Currently, Travel Office staff manually enter travel authorization and reimbursement data. The system is slow and inefficient and leads to data entry errors and delays in processing travel reimbursements for IU faculty, staff, and students. The new system will speed up processing time and provide more accurate data.
 
+Check output.docx file for output of my project 
